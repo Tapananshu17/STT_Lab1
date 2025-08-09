@@ -1,3 +1,8 @@
+'''
+    Sample Code as part of STT Lab 1
+'''
+
+
 def greet(name):
     """Greet a person by name."""
     print(f"Hello, {name}!")
